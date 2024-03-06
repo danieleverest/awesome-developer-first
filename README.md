@@ -3,7 +3,7 @@
 
 A curated list of awesome developer-first products.  
 (👀 Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
-You can follow [Agam](https://twitter.com/danieleverest18) for more dev related content :) 
+You can follow [Daniel](https://twitter.com/danieleverest18) for more dev related content :) 
 
 The definition of developer-first for this repo is:
 * Developers are the target audience.
